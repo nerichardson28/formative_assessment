@@ -1,5 +1,5 @@
 div{
-  background-image: url("../images/chalkboard.jpg");
+  background-image: url("chalkboard.jpg");
 padding-top: 1cm;
 padding-bottom:1cm;
 margin-right:1cm;
@@ -98,4 +98,5 @@ p{
 
 .activities{
   text-align: left;
+
 }
