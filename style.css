@@ -100,4 +100,14 @@ p{
   text-align: left;
 
 }
+.examples{
+	color:white;
+	   font-family: "Playpen Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	text-align: center;
+	font-size:30px;
+	
+}
 
