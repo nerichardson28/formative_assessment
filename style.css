@@ -77,6 +77,25 @@ button{
     width: 100px;
     height: 50px;
 }
+.stickynote7{
+	  background-image: url("stickynote7.png");
+   width:100%;
+    color:black;
+    font-size: 15pt;
+     border-radius: 25px;
+   padding: 10px;
+    width: 100px;
+    height: 50px;
+}
+.stickynote8{
+	  background-image: url("stickynote8.png");
+   width:100%;
+    color:black;
+    font-size: 15pt;
+     border-radius: 25px;
+   padding: 10px;
+    width: 100px;
+    height: 50px;
 h1 {
   color: yellow;
    font-family: "Gloria Hallelujah", cursive;
@@ -110,4 +129,5 @@ p{
 	font-size:30px;
 	
 }
+
 
