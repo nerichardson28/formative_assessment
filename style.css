@@ -8,7 +8,7 @@ margin-bottom:1cm;
 border-radius: 25px;
  
 }body {
-   background-image: url("../hardwood.png");
+   background-image: url("hardwood.png");
  }
 
 
@@ -18,7 +18,7 @@ p{
 	padding-right:1.5cm;
 }
 button{
-    background-image: url("../images/stickynote.jpg");
+    background-image: url("stickynote.jpg");
     width:100%;
     color:black;
     font-size: 15pt;
@@ -28,7 +28,7 @@ button{
   	height: 50px;
 }
 .stickynote2{
-  background-image: url("../images/stickynote2.jpg");
+  background-image: url("stickynote2.jpg");
    width:100%;
     color:black;
     font-size: 15pt;
@@ -38,7 +38,7 @@ button{
     height: 50px;
 }
 .stickynote3{
-    background-image: url("../images/sticknote3.jpg");
+    background-image: url("sticknote3.jpg");
    width:100%;
     color:black;
     font-size: 15pt;
@@ -48,7 +48,7 @@ button{
     height: 50px;
 }
 .stickynote4{
-   background-image: url("../images/stickynote4.png");
+   background-image: url("stickynote4.png");
    width:100%;
     color:black;
     font-size: 15pt;
@@ -58,7 +58,7 @@ button{
     height: 50px;
 }
 .stickynote5{
-    background-image: url("../images/stickynote5.png");
+    background-image: url("stickynote5.png");
    width:100%;
     color:black;
     font-size: 15pt;
@@ -68,7 +68,7 @@ button{
     height: 50px;
 }
 .stickynote6{
-  background-image: url("../images/stickynote6.png");
+  background-image: url("stickynote6.png");
    width:100%;
     color:black;
     font-size: 15pt;
@@ -100,3 +100,4 @@ p{
   text-align: left;
 
 }
+
