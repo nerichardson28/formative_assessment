@@ -131,10 +131,22 @@ p{
 	
 }
 
+.title{
+	  background-image: url("apple.jpg");
+   width:100%;
+    color:black;
+    font-size: 15pt;
+     border-radius: 25px;
+   padding: 10px;
+    width: 100px;
+    height: 50px;
+}
+
 .examples{
   text-align: center;
   font-size: 40px;
 }
+
 
 
 
